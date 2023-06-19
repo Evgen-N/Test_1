@@ -1,0 +1,15 @@
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.csproj.AssemblyReference.cache
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.AssemblyInfoInputs.cache
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.AssemblyInfo.cs
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.csproj.CoreCompileInputs.cache
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/bin/Debug/net7.0/project
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/bin/Debug/net7.0/project.deps.json
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/bin/Debug/net7.0/project.runtimeconfig.json
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/bin/Debug/net7.0/project.dll
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/bin/Debug/net7.0/project.pdb
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.dll
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/refint/project.dll
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.pdb
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/project.genruntimeconfig.cache
+/Users/boratsagdiev/Desktop/GeekBrains Test_1/ProjectTest1/obj/Debug/net7.0/ref/project.dll
